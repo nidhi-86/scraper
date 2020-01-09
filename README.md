@@ -1,1 +1,1 @@
-# scraper
+# scraper to scrape data from https://en.wikipedia.org/wiki/2019_in_spaceflight#Orbital_launches using BeautifulSoup in python3 and gives count of successful, operational or enroute launches in a day[irrespective of sub-payloads].
